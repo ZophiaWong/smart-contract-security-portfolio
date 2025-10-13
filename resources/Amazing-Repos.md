@@ -1,1 +1,2 @@
-https://github.com/Cyfrin/sc-exploits-minimized
+- [SC Exploits Minimized](https://github.com/Cyfrin/sc-exploits-minimized): Smart Contract exploits, minimized for your learning pleasure.
+- [A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks)

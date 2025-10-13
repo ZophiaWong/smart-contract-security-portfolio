@@ -9,5 +9,6 @@ This repo contains some audit reports and collects many practical security-focus
 
 ### Other resources
 
+- [audit report templates from Cyfrin](https://github.com/Cyfrin/audit-report-templating)
 - Security/web3 newsletter
 -

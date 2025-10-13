@@ -4,6 +4,7 @@
   - [1. Access Control Vulnerabilities](#1-access-control-vulnerabilities)
     - [Description](#description)
     - [Example(In Code)](#examplein-code)
+    - [Keep an eye for](#keep-an-eye-for)
   - [2. Price Oracle Manipulation](#2-price-oracle-manipulation)
   - [3. Logic Errors](#3-logic-errors)
   - [4. Lack of Input Validation](#4-lack-of-input-validation)
@@ -23,6 +24,16 @@ Refs:
 ### Description
 
 ### Example(In Code)
+
+### Keep an eye for
+
+1. **For-Loops**: Take extra caution with for-loops. Ask yourself these questions:
+
+   - Is
+   - Can
+   - How much
+
+2. **External Calls**:
 
 ## 2. Price Oracle Manipulation
 

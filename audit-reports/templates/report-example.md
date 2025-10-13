@@ -8,19 +8,19 @@ header-includes:
 ---
 
 \begin{titlepage}
-\centering
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.5\textwidth]{logo-zp.pdf}
-\end{figure}
-\vspace\*{2cm}
-{\Huge\bfseries Protocol Audit Report\par}
-\vspace{1cm}
-{\Large Version 1.0\par}
-\vspace{2cm}
-{\Large\itshape Cyfrin.io\par}
-\vfill
-{\large \today\par}
+    \centering
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{logo-zp.pdf} 
+    \end{figure}
+    \vspace*{2cm}
+    {\Huge\bfseries Protocol Audit Report\par}
+    \vspace{1cm}
+    {\Large Version 1.0\par}
+    \vspace{2cm}
+    {\Large\itshape Cyfrin.io\par}
+    \vfill
+    {\large \today\par}
 \end{titlepage}
 
 \maketitle
@@ -28,12 +28,10 @@ header-includes:
 <!-- Your report starts here! -->
 
 Prepared by: [Cyfrin](https://cyfrin.io)
-Lead Auditors:
-
+Lead Auditors: 
 - xxxxxxx
 
 # Table of Contents
-
 - [Table of Contents](#table-of-contents)
 - [Protocol Summary](#protocol-summary)
 - [Disclaimer](#disclaimer)
@@ -69,24 +67,14 @@ The YOUR_NAME_HERE team makes all effort to find as many vulnerabilities in the 
 
 We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate-a-finding-severity) severity matrix to determine severity. See the documentation for more details.
 
-# Audit Details
-
-## Scope
-
+# Audit Details 
+## Scope 
 ## Roles
-
 # Executive Summary
-
 ## Issues found
-
 # Findings
-
 # High
-
 # Medium
-
-# Low
-
+# Low 
 # Informational
-
-# Gas
+# Gas 
