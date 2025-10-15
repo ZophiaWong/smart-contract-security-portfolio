@@ -1,7 +1,7 @@
 ---
-title: Protocol Audit Report
-author: Cyfrin.io
-date: March 7, 2023
+title: PuppyRaffle Audit Report
+author: Zephyr Wong
+date: Oct. 15, 2025
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -18,7 +18,7 @@ header-includes:
     \vspace{1cm}
     {\Large Version 1.0\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
+    {\Large\itshape ZophiaWong\par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -27,9 +27,11 @@ header-includes:
 
 <!-- Your report starts here! -->
 
-Prepared by: [Cyfrin](https://cyfrin.io)
+Prepared by: [Zephyr Wong
+](https://github.com/ZophiaWong)
 Lead Auditors: 
-- xxxxxxx
+- [Zephyr Wong
+](https://github.com/ZophiaWong)
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -42,11 +44,11 @@ Lead Auditors:
 - [Executive Summary](#executive-summary)
   - [Issues found](#issues-found)
 - [Findings](#findings)
-- [High](#high)
-- [Medium](#medium)
-- [Low](#low)
-- [Informational](#informational)
-- [Gas](#gas)
+  - [High](#high)
+  - [Medium](#medium)
+  - [Low](#low)
+  - [Informational](#informational)
+  - [Gas](#gas)
 
 # Protocol Summary
 
@@ -73,8 +75,8 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 # Executive Summary
 ## Issues found
 # Findings
-# High
-# Medium
-# Low 
-# Informational
-# Gas 
+## High
+## Medium
+## Low 
+## Informational
+## Gas 

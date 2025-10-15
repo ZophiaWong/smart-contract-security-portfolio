@@ -1,3 +1,7 @@
+# Findings
+
+## High
+
 ### [S-#] TITLE (Root Cause + Impact)
 
 **Description:**
@@ -7,3 +11,11 @@
 **Proof of Concept:**
 
 **Recommended Mitigation:**
+
+## Medium
+
+## Low
+
+## Informational
+
+## Gas
